@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSE422\\Lab2_LeThanhLong_CSE422\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1622AA46-CA2D-473A-B276-C0E89680D3AA}|Lab2_LeThanhLong_CSE422\\Lab2_LeThanhLong_CSE422.csproj|d:\\cse422\\lab2_lethanhlong_cse422\\lab2_lethanhlong_cse422\\views\\device\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1622AA46-CA2D-473A-B276-C0E89680D3AA}|Lab2_LeThanhLong_CSE422\\Lab2_LeThanhLong_CSE422.csproj|solutionrelative:lab2_lethanhlong_cse422\\views\\device\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1622AA46-CA2D-473A-B276-C0E89680D3AA}|Lab2_LeThanhLong_CSE422\\Lab2_LeThanhLong_CSE422.csproj|d:\\cse422\\lab2_lethanhlong_cse422\\lab2_lethanhlong_cse422\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1622AA46-CA2D-473A-B276-C0E89680D3AA}|Lab2_LeThanhLong_CSE422\\Lab2_LeThanhLong_CSE422.csproj|solutionrelative:lab2_lethanhlong_cse422\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1622AA46-CA2D-473A-B276-C0E89680D3AA}|Lab2_LeThanhLong_CSE422\\Lab2_LeThanhLong_CSE422.csproj|d:\\cse422\\lab2_lethanhlong_cse422\\lab2_lethanhlong_cse422\\views\\device\\device.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1622AA46-CA2D-473A-B276-C0E89680D3AA}|Lab2_LeThanhLong_CSE422\\Lab2_LeThanhLong_CSE422.csproj|solutionrelative:lab2_lethanhlong_cse422\\views\\device\\device.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1622AA46-CA2D-473A-B276-C0E89680D3AA}|Lab2_LeThanhLong_CSE422\\Lab2_LeThanhLong_CSE422.csproj|d:\\cse422\\lab2_lethanhlong_cse422\\lab2_lethanhlong_cse422\\database\\inmemorydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1622AA46-CA2D-473A-B276-C0E89680D3AA}|Lab2_LeThanhLong_CSE422\\Lab2_LeThanhLong_CSE422.csproj|solutionrelative:lab2_lethanhlong_cse422\\database\\inmemorydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1622AA46-CA2D-473A-B276-C0E89680D3AA}|Lab2_LeThanhLong_CSE422\\Lab2_LeThanhLong_CSE422.csproj|d:\\cse422\\lab2_lethanhlong_cse422\\lab2_lethanhlong_cse422\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1622AA46-CA2D-473A-B276-C0E89680D3AA}|Lab2_LeThanhLong_CSE422\\Lab2_LeThanhLong_CSE422.csproj|solutionrelative:lab2_lethanhlong_cse422\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1622AA46-CA2D-473A-B276-C0E89680D3AA}|Lab2_LeThanhLong_CSE422\\Lab2_LeThanhLong_CSE422.csproj|d:\\cse422\\lab2_lethanhlong_cse422\\lab2_lethanhlong_cse422\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1622AA46-CA2D-473A-B276-C0E89680D3AA}|Lab2_LeThanhLong_CSE422\\Lab2_LeThanhLong_CSE422.csproj|solutionrelative:lab2_lethanhlong_cse422\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Device.cshtml",
+              "DocumentMoniker": "D:\\CSE422\\Lab2_LeThanhLong_CSE422\\Lab2_LeThanhLong_CSE422\\Views\\Device\\Device.cshtml",
+              "RelativeDocumentMoniker": "Lab2_LeThanhLong_CSE422\\Views\\Device\\Device.cshtml",
+              "ToolTip": "D:\\CSE422\\Lab2_LeThanhLong_CSE422\\Lab2_LeThanhLong_CSE422\\Views\\Device\\Device.cshtml",
+              "RelativeToolTip": "Lab2_LeThanhLong_CSE422\\Views\\Device\\Device.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T02:21:40.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Device.cs",
+              "DocumentMoniker": "D:\\CSE422\\Lab2_LeThanhLong_CSE422\\Lab2_LeThanhLong_CSE422\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "Lab2_LeThanhLong_CSE422\\Models\\Device.cs",
+              "ToolTip": "D:\\CSE422\\Lab2_LeThanhLong_CSE422\\Lab2_LeThanhLong_CSE422\\Models\\Device.cs",
+              "RelativeToolTip": "Lab2_LeThanhLong_CSE422\\Models\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T02:20:15.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InMemoryDatabase.cs",
+              "DocumentMoniker": "D:\\CSE422\\Lab2_LeThanhLong_CSE422\\Lab2_LeThanhLong_CSE422\\Database\\InMemoryDatabase.cs",
+              "RelativeDocumentMoniker": "Lab2_LeThanhLong_CSE422\\Database\\InMemoryDatabase.cs",
+              "ToolTip": "D:\\CSE422\\Lab2_LeThanhLong_CSE422\\Lab2_LeThanhLong_CSE422\\Database\\InMemoryDatabase.cs",
+              "RelativeToolTip": "Lab2_LeThanhLong_CSE422\\Database\\InMemoryDatabase.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAkwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T02:18:52.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEdit.cshtml",
+              "DocumentMoniker": "D:\\CSE422\\Lab2_LeThanhLong_CSE422\\Lab2_LeThanhLong_CSE422\\Views\\Device\\AddEdit.cshtml",
+              "RelativeDocumentMoniker": "Lab2_LeThanhLong_CSE422\\Views\\Device\\AddEdit.cshtml",
+              "ToolTip": "D:\\CSE422\\Lab2_LeThanhLong_CSE422\\Lab2_LeThanhLong_CSE422\\Views\\Device\\AddEdit.cshtml",
+              "RelativeToolTip": "Lab2_LeThanhLong_CSE422\\Views\\Device\\AddEdit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T01:58:26.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\CSE422\\Lab2_LeThanhLong_CSE422\\Lab2_LeThanhLong_CSE422\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab2_LeThanhLong_CSE422\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\CSE422\\Lab2_LeThanhLong_CSE422\\Lab2_LeThanhLong_CSE422\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab2_LeThanhLong_CSE422\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwCIAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T07:53:18.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeviceController.cs",
+              "DocumentMoniker": "D:\\CSE422\\Lab2_LeThanhLong_CSE422\\Lab2_LeThanhLong_CSE422\\Controllers\\DeviceController.cs",
+              "RelativeDocumentMoniker": "Lab2_LeThanhLong_CSE422\\Controllers\\DeviceController.cs",
+              "ToolTip": "D:\\CSE422\\Lab2_LeThanhLong_CSE422\\Lab2_LeThanhLong_CSE422\\Controllers\\DeviceController.cs",
+              "RelativeToolTip": "Lab2_LeThanhLong_CSE422\\Controllers\\DeviceController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwC4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T09:45:55.688Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

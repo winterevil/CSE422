@@ -1,0 +1,28 @@
+﻿@model User
+
+<h2>@(Model.UserId == 0 ? "Add New User" : "Edit User")</h2>
+
+<form asp-action="AddEdit" method="post">
+    <input type="hidden" asp-for="UserId" />
+
+    <div class="form-group">
+        <label asp-for="UserName"></label>
+        <input asp-for="UserName" class="form-control" />
+        <span asp-validation-for="UserName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="UserEmail"></label>
+        <input asp-for="UserEmail" class="form-control" />
+        <span asp-validation-for="UserEmail" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="UserPhone"></label>
+        <input asp-for="UserPhone" class="form-control" />
+        <span asp-validation-for="UserPhone" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Save</button>
+    <a asp-action="User" class="btn btn-secondary">Back</a>
+</form>

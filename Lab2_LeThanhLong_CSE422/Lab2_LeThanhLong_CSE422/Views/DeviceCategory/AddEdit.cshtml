@@ -1,0 +1,14 @@
+@model DeviceCategory
+
+<h2>@(Model.CategoryId == 0 ? "Add New Category" : "Edit Category")</h2>
+
+<form asp-action="AddEdit" method="post">
+    <input type="hidden" asp-for="CategoryId" />
+    <div class="form-group">
+        <label asp-for="CategoryName"></label>
+        <input asp-for="CategoryName" class="form-control" />
+        <span asp-validation-for="CategoryName" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-success">Save</button>
+    <a asp-action="DeviceCategory" class="btn btn-secondary">Back</a>
+</form>

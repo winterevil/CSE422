@@ -1,0 +1,55 @@
+﻿@model Device
+
+<h2>@(Model.DeviceId == 0 ? "Add New Device" : "Edit Device")</h2>
+
+<form asp-action="AddEdit" method="post">
+    <input type="hidden" asp-for="DeviceId" />
+
+    <div class="form-group">
+        <label asp-for="DeviceName"></label>
+        <input asp-for="DeviceName" class="form-control" />
+        <span asp-validation-for="DeviceName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="DeviceCode"></label>
+        <input asp-for="DeviceCode" class="form-control" />
+        <span asp-validation-for="DeviceCode" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="CategoryId">Category</label>
+        <select asp-for="CategoryId" asp-items="@(new SelectList(ViewBag.Categories, "CategoryId", "CategoryName"))" class="form-control">
+            <option value="">Select a category</option>
+        </select>
+        <span asp-validation-for="CategoryId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="DeviceStatus"></label>
+        <select asp-for="DeviceStatus" class="form-control">
+            <option value="In use">In use</option>
+            <option value="Broken">Broken</option>
+            <option value="Under maintenance">Under maintenance</option>
+        </select>
+        <span asp-validation-for="DeviceStatus" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="UserId">User</label>
+        <select asp-for="UserId" asp-items="@(new SelectList(ViewBag.Users, "UserId", "UserName"))" class="form-control">
+            <option value="">Select a user</option>
+        </select>
+        <span asp-validation-for="UserId" class="text-danger"></span>
+    </div>
+
+
+    <div class="form-group">
+        <label asp-for="DeviceDateOfEntry"></label>
+        <input asp-for="DeviceDateOfEntry" type="date" class="form-control" />
+        <span asp-validation-for="DeviceDateOfEntry" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Save</button>
+    <a asp-action="Device" class="btn btn-secondary">Back</a>
+</form>
